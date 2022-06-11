@@ -1,0 +1,37 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 5px 10px;
+    color: white;
+    background: var(--main-bg-color);
+    border: 2px solid white;
+    border-radius: 8px;
+    cursor: pointer;
+    align-self: center;
+}
+.card-items{
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+   
+}
+.text-class{
+    text-align: center;
+    margin: 5px;
+}
+.class1{
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+}
+my-1{
+    margin: 5px;
+}
+h2{
+    margin-left: 40px;
+}
